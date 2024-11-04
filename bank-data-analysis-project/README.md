@@ -1,4 +1,4 @@
-[bank-data-analysis-project](https://github.com/thmndswpr/data-analyst-projects/blob/main/bank-data-analysis-project/bank-data-analysis.ipynb)
+[bank-data-analysis.ipynb](https://github.com/thmndswpr/data-analyst-projects/blob/main/bank-data-analysis-project/bank-data-analysis.ipynb)
 # Описание проекта
 Необходимо исследовать влияние семейного положения и количества детей клиента на факт погашения кредита в срок.
 Результаты исследования будут учтены при построении модели кредитного скоринга.
