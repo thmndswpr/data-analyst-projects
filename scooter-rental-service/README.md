@@ -1,6 +1,6 @@
 [scooter_rental_service_analysis.ipynb](https://github.com/thmndswpr/data-analyst-projects/blob/main/scooter-rental-service/scooter_rental_service_analysis.ipynb)
 # Описание проекта
-Необходимо проанализировать данные сервиса аренды самокатов. Исследование необходимо для увеличения количества пользователей с подпиской.
+Основная задача - проанализировать данные сервиса аренды самокатов. Исследование необходимо для увеличения количества пользователей с подпиской.
 
 #  Инструменты
 * Python
