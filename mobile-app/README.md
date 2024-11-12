@@ -1,4 +1,4 @@
-
+[mobile-app-analysis.ipynb](https://github.com/thmndswpr/data-analyst-projects/blob/main/mobile-app/mobile-app-analysis.ipynb)
 # Описание проекта
 Необходимо проанализировать данные мобльного приложения, выявить причину убытков и дать рекомендации, чтобы выйти в плюс.
 Результаты исследования будут учтены маркетинговым отделом.
