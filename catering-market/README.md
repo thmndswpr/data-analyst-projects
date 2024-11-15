@@ -8,6 +8,7 @@
 * Matplotlib
 * Seaborn
 * Plotly
+* Folium
 
 # Общий вывод
 Были исследованы:
